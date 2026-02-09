@@ -26,7 +26,7 @@ This Magisk module attempts to enable 6GHz WiFi and Hotspot capabilities on supp
 1. Open Magisk app
 2. Find "WiFi 7 / 6GHz Enabler" module
 3. Tap the "⚡ Action" button
-4. Country code cycles: **NL → EU → DE → JP → US → CA → CN** (loop back to NL)
+4. Country code cycles: **NL → EU → DE → JP → US → CA → AU → CN** (loop back to NL)
 
 ## Disclaimer
 This module modifies system properties and WiFi configurations. Use at your own risk. 6GHz functionality is heavily dependent on your device's hardware and driver implementation.

@@ -2,7 +2,7 @@
 MODDIR=${0%/*}
 
 # Define available options (Must match customize.sh for consistency)
-OPTIONS="NL EU DE JP US CA CN"
+OPTIONS="NL EU DE JP US CA AU CN"
 
 # Read current config
 if [ -f "$MODDIR/wifi_config.prop" ]; then
